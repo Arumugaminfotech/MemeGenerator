@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arumugaminfotech/MemeGenerator/static/css/main.b4bb5e35.css",
+    "main.js": "/Arumugaminfotech/MemeGenerator/static/js/main.c488c463.js",
+    "static/js/787.da67c08e.chunk.js": "/Arumugaminfotech/MemeGenerator/static/js/787.da67c08e.chunk.js",
+    "index.html": "/Arumugaminfotech/MemeGenerator/index.html",
+    "main.b4bb5e35.css.map": "/Arumugaminfotech/MemeGenerator/static/css/main.b4bb5e35.css.map",
+    "main.c488c463.js.map": "/Arumugaminfotech/MemeGenerator/static/js/main.c488c463.js.map",
+    "787.da67c08e.chunk.js.map": "/Arumugaminfotech/MemeGenerator/static/js/787.da67c08e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4bb5e35.css",
+    "static/js/main.c488c463.js"
+  ]
+}
